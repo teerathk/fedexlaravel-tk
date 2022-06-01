@@ -1,5 +1,5 @@
 {
-  "name": "teerathk/fedex-laravel",
+  "name": "teerathk/fedexlaravel-tk",
   "description": "A service provider to integrate FedEx servces into your Laravel Project",
   "license": "MIT",
   "require": {
